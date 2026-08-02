@@ -13,6 +13,10 @@ export default function Projects() {
 
       <div className="ledger">
         <article className="entry">
+          <div className="entry__date">
+            <span className="entry__from">Portfolio</span>
+            <span className="entry__to">Project</span>
+          </div>
           <div className="entry__body">
             <h3>
               Banking Complaint-Report Dashboard
@@ -23,11 +27,17 @@ export default function Projects() {
               <strong>Approach:</strong> Modeled on real daily complaint reports, cleaned and categorized sample data using Python (Pandas), and built an interactive dashboard in Tableau.<br/>
               <strong>Insight:</strong> Identified peak times for specific transaction failures, allowing for targeted process improvements.
             </p>
-            <a href="#" className="entry__link">View Dashboard on Tableau Public →</a>
+            <div style={{ marginTop: '16px' }}>
+              <a href="#" className="btn btn--ghost" style={{ padding: '8px 16px', fontSize: '12px' }}>View Dashboard on Tableau Public →</a>
+            </div>
           </div>
         </article>
 
         <article className="entry">
+          <div className="entry__date">
+            <span className="entry__from">Portfolio</span>
+            <span className="entry__to">Project</span>
+          </div>
           <div className="entry__body">
             <h3>
               Retail Banking Customer Segmentation
@@ -38,7 +48,9 @@ export default function Projects() {
               <strong>Approach:</strong> Performed Exploratory Data Analysis (EDA) and K-Means clustering on a public banking dataset.<br/>
               <strong>Insight:</strong> Segmented customers into three distinct groups, highlighting a high-frequency, low-value transactor segment.
             </p>
-            <a href="#" className="entry__link">View Repository on GitHub →</a>
+            <div style={{ marginTop: '16px' }}>
+              <a href="#" className="btn btn--ghost" style={{ padding: '8px 16px', fontSize: '12px' }}>View Repository on GitHub →</a>
+            </div>
           </div>
         </article>
       </div>
