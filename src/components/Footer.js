@@ -6,7 +6,7 @@ export default function Footer() {
           <p className="eyebrow eyebrow--light">Account inquiries welcome</p>
           <h2>Let&apos;s talk.</h2>
           <p className="footer__desc">
-            Open to Finance &amp; Operations roles in Jakarta and BSD. Reachable
+            Open to Operations, Reporting, or Data/Analytics roles in Jakarta and BSD (remote/hybrid considered). Reachable
             by WhatsApp or email — usually within a day.
           </p>
         </div>

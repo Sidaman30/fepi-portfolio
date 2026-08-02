@@ -30,7 +30,7 @@ export default function Hero() {
         <br />
         Sidabalok
       </h1>
-      <p className="hero__title">Finance &amp; Operations Associate</p>
+      <p className="hero__title">Operations &amp; Data Professional</p>
       <p className="hero__desc">
         Three years of banking operations behind every number on this page —
         cash handled to the rupiah, complaints resolved same-day, reports filed

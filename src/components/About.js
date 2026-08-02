@@ -9,25 +9,14 @@ export default function About() {
       </div>
       <div className="about__grid">
         <p className="about__lede">
-          Finance and operations professional with three-plus years of hands-on
-          banking experience — cash handling, transaction processing, and
-          customer service at PT Bank Victoria International, Tbk.
+          Operations and reporting professional with 3+ years of hands-on banking experience — cash handling, transaction processing, and customer service at PT Bank Victoria International, Tbk — combined with a growing skill set in data analysis (SQL, Python, Tableau) through an ongoing Data Science program.
         </p>
         <div className="about__body">
           <p>
-            Every working day runs on the same discipline: transactions closed
-            in under two minutes, cash accounted for to the last rupiah, and
-            more than twenty customer questions resolved without letting service
-            quality slip. That discipline was built early — a Cum Laude degree
-            in Agribusiness, a national scholarship, and a habit of being the
-            one teams put in charge of the details.
+            Academic foundation built on rigor: Cum Laude Agribusiness degree (GPA 3.91/4.00) and a national scholarship (BIDIKMISI). Comfortable leading teams, coordinating cross-functionally, and communicating with international stakeholders in English (B2).
           </p>
           <p>
-            Alongside the day job, I&apos;m adding a second skill set in data
-            analysis and reporting — SQL, Python, and dashboarding tools — to
-            bring sharper, evidence-based reporting to operations work.
-            Comfortable coordinating across teams and with international
-            stakeholders in English (B2).
+            Currently applying data analysis skills to operational and financial reporting problems.
           </p>
         </div>
       </div>

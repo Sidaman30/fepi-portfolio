@@ -35,16 +35,10 @@ export default function Experience() {
                 pressure, without a drop in service quality
               </li>
               <li>
-                Manage cash inventory and ensure accurate fund availability for
-                daily branch operations
+                Managed daily cash inventory with zero discrepancies, ensuring accurate fund availability for branch operations
               </li>
               <li>
-                Compile daily complaint reports that feed the business
-                team&apos;s service-improvement work
-              </li>
-              <li>
-                Maintain current knowledge of products, services, and compliance
-                procedures
+                Compiled and analyzed daily customer complaint reports, identifying recurring service issues used by the business team to drive process improvements
               </li>
             </ul>
           </div>
@@ -82,9 +76,7 @@ export default function Experience() {
                 Negotiated pricing terms with suppliers to optimize cost
                 efficiency
               </li>
-              <li>
-                Built supplier relationships that kept delivery reliable
-              </li>
+
               <li>
                 Prepared invoices, purchase orders, and goods-receipt
                 documentation
