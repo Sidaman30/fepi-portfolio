@@ -4,7 +4,7 @@ export default function Leadership() {
   return (
     <RevealSection id="leadership">
       <div className="section__head">
-        <span className="section__no">05</span>
+        <span className="section__no">06</span>
         <h2>Leadership</h2>
       </div>
 
@@ -37,7 +37,7 @@ export default function Leadership() {
             <h3>
               Team Leader{' '}
               <span className="entry__at">
-                — Student Creativity Program (PKM)
+                — Student Creativity Program (PKM, national research competition)
               </span>
             </h3>
             <p className="entry__note">

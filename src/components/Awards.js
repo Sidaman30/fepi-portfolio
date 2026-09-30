@@ -4,7 +4,7 @@ export default function Awards() {
   const awards = [
     {
       title: 'Winner — Student-Level Palm Oil Research Competition Grant',
-      meta: 'BPDPKS, Ministry of Finance of the Republic of Indonesia · Apr 2022',
+      meta: 'BPDPKS (Indonesian Government Palm Oil Fund Agency), Ministry of Finance of the Republic of Indonesia · Apr 2022',
     },
     {
       title: 'Chemistry Olympiad Award — Regional Level',
@@ -28,7 +28,7 @@ export default function Awards() {
   return (
     <RevealSection id="awards">
       <div className="section__head">
-        <span className="section__no">06</span>
+        <span className="section__no">07</span>
         <h2>Awards &amp; Certificates</h2>
       </div>
 

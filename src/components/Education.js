@@ -4,7 +4,7 @@ export default function Education() {
   return (
     <RevealSection id="education">
       <div className="section__head">
-        <span className="section__no">04</span>
+        <span className="section__no">05</span>
         <h2>Education</h2>
       </div>
 
@@ -22,7 +22,8 @@ export default function Education() {
             <p className="entry__note">
               Business problem framing, statistics &amp; data exploration,
               Python, SQL, data visualization (Tableau), spreadsheets, data
-              communication.
+              communication.<br/>
+              <em>Project: Applied coursework to a sample banking-complaint dashboard project.</em>
             </p>
           </div>
         </article>

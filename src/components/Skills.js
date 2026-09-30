@@ -4,18 +4,30 @@ export default function Skills() {
   return (
     <RevealSection id="skills">
       <div className="section__head">
-        <span className="section__no">03</span>
+        <span className="section__no">04</span>
         <h2>Skills</h2>
       </div>
 
       <div className="skills__grid">
         <div className="skill-cat">
-          <h3>Banking &amp; Financial Operations</h3>
+          <h3>Tools &amp; Software</h3>
           <ul className="tags">
-            <li>Cash management</li>
-            <li>Transaction processing</li>
-            <li>Reconciliation</li>
-            <li>Cash accountability</li>
+            <li>SQL</li>
+            <li>Python (pandas, numpy, matplotlib, sklearn, seaborn)</li>
+            <li>Excel</li>
+            <li>Google Sheets</li>
+            <li>Tableau</li>
+            <li>Google Data Studio</li>
+          </ul>
+        </div>
+        <div className="skill-cat">
+          <h3>Data &amp; Analysis</h3>
+          <ul className="tags">
+            <li>Data Cleaning</li>
+            <li>EDA</li>
+            <li>Statistics</li>
+            <li>Hypothesis Testing</li>
+            <li>Correlation/Regression/Clustering Analysis</li>
           </ul>
         </div>
         <div className="skill-cat">
@@ -28,23 +40,20 @@ export default function Skills() {
           </ul>
         </div>
         <div className="skill-cat">
+          <h3>Banking &amp; Financial Operations</h3>
+          <ul className="tags">
+            <li>Cash management</li>
+            <li>Transaction processing</li>
+            <li>Reconciliation</li>
+          </ul>
+        </div>
+        <div className="skill-cat">
           <h3>Client &amp; Stakeholder Communication</h3>
           <ul className="tags">
             <li>Customer service</li>
             <li>Complaint resolution</li>
             <li>Cross-team coordination</li>
             <li>English (B2)</li>
-          </ul>
-        </div>
-        <div className="skill-cat">
-          <h3>Tools &amp; Software</h3>
-          <ul className="tags">
-            <li>Excel (formulas, pivots)</li>
-            <li>Google Sheets</li>
-            <li>Tableau</li>
-            <li>Google Data Studio</li>
-            <li>SQL</li>
-            <li>Python (pandas, numpy)</li>
           </ul>
         </div>
         <div className="skill-cat">

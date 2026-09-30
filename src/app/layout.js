@@ -23,9 +23,9 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata = {
-  title: 'Fepi Efta Pioni Sidabalok — Finance & Operations Associate',
+  title: 'Fepi Efta Pioni Sidabalok — Operations & Data Professional',
   description:
-    'Portfolio of Fepi Efta Pioni Sidabalok — Finance & Operations professional with banking operations, reporting, and data analysis experience.',
+    'Portfolio of Fepi Efta Pioni Sidabalok — Operations & Data Professional with banking operations, reporting, and data analysis experience.',
 };
 
 export default function RootLayout({ children }) {
